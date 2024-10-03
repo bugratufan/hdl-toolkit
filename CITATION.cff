@@ -9,4 +9,4 @@ authors:
 title: "Docker environment for FPGA and ASIC development, equipped with Icarus Verilog and GTKWave on Ubuntu 24.04, designed to ensure a consistent and portable simulation workspace."
 version: 1.0
 date-released: 2024-10-04
-url: "https://github.com/bugratufan/make-silicon"
+url: "https://github.com/bugratufan/hdl-toolkit"
