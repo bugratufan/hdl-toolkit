@@ -31,12 +31,10 @@ Welcome to the HDL-Toolkit repository! This Docker-based setup provides a ready-
 1.	Build the Docker image:
    ```bash
     docker build -t hdl-toolkit .
-    ```
 
 2.	Run the Docker container:
     ```bash
     docker run -it --name my-hdl-session -v $(pwd)/workspace:/workspace hdl-toolkit
-    ```
 
 3.	You're now inside the Docker container and can start working on your HDL projects. The workspace directory is mounted inside the container at `/workspace`.
 
@@ -45,12 +43,10 @@ Welcome to the HDL-Toolkit repository! This Docker-based setup provides a ready-
 5. To re-enter the container, use:
     ```bash
     docker start -i my-hdl-session
-    ```
 
 6. To remove the container, use:
     ```bash
     docker rm -f my-hdl-session
-    ```
 
 ### License
 
