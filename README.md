@@ -52,6 +52,16 @@ Welcome to the HDL-Toolkit repository! This Docker-based setup provides a ready-
     docker rm -f my-hdl-session
     ```
 
+## How to Contribute and Support
+
+If you have any questions or suggestions, please feel free to open an issue or pull request. You can also support this project by sharing it with others who might find it useful.
+
+Please fork this repository and contribute back using [pull requests](https://github.com/your-username/HDL-Toolkit/pulls).
+
+### License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
 ### License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
