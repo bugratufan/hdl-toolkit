@@ -54,9 +54,9 @@ Welcome to the HDL-Toolkit repository! This Docker-based setup provides a ready-
 
 ## How to Contribute and Support
 
-If you have any questions or suggestions, please feel free to open an issue or pull request. You can also support this project by sharing it with others who might find it useful.
+If you have any questions or suggestions, please feel free to [create an issue](https://github.com/bugratufan/hdl-toolkit/issues/new) or pull request. You can also support this project by sharing it with others who might find it useful.
 
-Please fork this repository and contribute back using [pull requests](https://github.com/your-username/HDL-Toolkit/pulls).
+Please fork this repository and contribute back using [pull requests](https://github.com/bugratufan/hdl-toolkit/pulls).
 
 ### License
 
